@@ -1,0 +1,163 @@
+0003
+0006 - Buster Sword
+0007
+0008 - Enhancer
+0009 - Blazefire Saber
+0011 - Budding Wand
+0027 - Barret Weapon
+0028 - Same as 0027
+0032
+0034 - Budding Wand (grey)
+0035
+0036 - Mage Masher (grey)
+0037 - Mage Masher (grey)
+0040
+0043 - Mage Masher
+0044 - Mage Masher
+0045 - Vega
+0046 - Vega
+0056
+0057 - Same as 0056
+0060
+0063
+0066
+0067
+0069
+0070
+0071
+0081 - Spica
+0082 - Spica
+0085 - Metal Knuckles (VII)
+0086 - Metal Knuckles (VII)
+0089
+0090
+0092 - Hyperion
+0093
+0094 - Fujin's Chakram (VIII)
+0209
+0210 - Same as 0209
+0216
+0223 - Fleeting Dream's Sword (X)
+0225 - Evanescent Glimmer's Sword (XIII)
+0227 - Matron of Antiquity's Staff (XI)
+0237
+0238
+0249 - Rebellion
+0266
+0268
+0269 - Same as 0268
+0274
+0275 - Shire Rapier (XIV)
+0280
+0281 - Same as 0280
+0294
+0295 - Same as 0294
+0313
+0314 - same as 0313
+0319
+0322
+0326
+0336 - Guard Stick (VII)
+0338
+0339 - Same as 0338
+0359
+0380 - Cards (T0)
+0383
+0384
+0403
+0404 - Same as 0403
+0415
+0416 - Same as 0415
+0419
+0424
+0425 - same as 0424
+0448 - Same as 0419
+0493
+0494 - same as 0493
+0495
+0503
+0504 - same as 0503
+0505
+0506 - Same as 0505
+0513 - Mako Katana
+0515
+0516
+0517
+0529
+0530 - Serpent Sword
+0539
+0544
+0545 - same as 0544
+0550 - Ancient Sword
+0552
+0553 - same as 0552
+0562
+0564
+0565 - Rune Blade
+0568
+0569
+0570 - same as 0569
+0573
+0574 - Sleep Sword
+0581
+0584
+0585
+0587
+0588
+0589
+0590 - Same as 0589
+0591
+0600
+0601
+0603
+0605 - Asura's Sword
+0606
+0607
+0608 - Same as 0607
+0615
+0617
+0618 - Same as 0617
+0628
+0640
+0641 - same as 0641
+0642 - (barret weapon)
+0644
+0645 - same as 0644
+0652
+0654 - W Machine Gun
+0656
+0657 - Same as 0656
+0665
+0666 - Same as 0665
+0671
+0672 - same as 671
+0674 - Magical Mog
+0684
+0685
+0686 - Same as 0685
+0694
+0695 - Same as 0694
+0710
+0729
+0740
+0753
+0791
+0792
+0793 - Same as 0792
+0837
+0838 - Same as 0837
+0839 - Same as 0837
+0840 - Same as 0837
+0844
+0911
+0912
+0913 - Same as 0912
+0927
+0928 - Same as 0927
+0952 - Blasting Edge
+0953
+0969 - Demon Wing
+0971 - Crystal Wing
+0972 - Black Mage s Wing
+0988
+0995
