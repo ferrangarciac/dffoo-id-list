@@ -1,0 +1,317 @@
+0000 - Cloud
+000003 - Cloud (AC Costume)
+0001 - Vivi
+0002 - Yuna
+000201 - Yuna (FFX-2 costume)
+0003 - Goblin
+0004 - Iron Giant
+0005 - Flan
+0006 - Behemoth
+0007 - Auron
+0008 - Snow
+0012 - Firion
+0013 - Lightning
+001301 - Lightning (Knight of Etro Armor Costume)
+0014 - Hope
+0015 - Tifa
+0016 - WoL
+001601 - WoL (NES Warrior Costume)
+0017 - Y'shtola
+0018 - Laguna
+0019 - Laguna (manikin)
+0020 - Cloud (manikin)
+0021 - Hope (manikin)
+0022 - Rem
+0023 - Sazh
+0024 - Zidane
+002401 - Zidane (Knight of Pluto Costume)
+0026 - Vaan
+002601 - Vaan (alternative)
+0027 - Yda
+0029 - Mog
+0030 - WoL (manikin)
+0032 - Tifa (manikin)
+0033 - Vivi (manikin)
+0034 - Zidane (manikin)
+0036 - Sazh (manikin)
+0037 - Y'shtola (manikin)
+0038 - Yda (manikin)
+0039 - Rem (manikin)
+0040 - King
+0041 - Seifer
+0042 - Raijin
+0043 - Fujin
+0044 - Bartz
+0045 - Edge
+0046 - Yuna (manikin)
+0048 - Yang
+0049 - Cecil (paladin)
+0050 - Cecil
+0051 - Terra
+005103 - Terra (Original Costume)
+0052 - Setzer
+0053 - Sephiroth
+0054 - Squall
+005401 - Squall (Seed Costume)
+0055 - Tidus
+0056 - Seymour
+0057 - Skeleton
+0058 - Bomb
+0059 - Red Bat
+0060 - Zuu
+0061 - Wolf
+0062 - Ghost
+0063 - Land Turtle
+0064 - Red Dragon
+0065 - Alpha Wolf
+0066 - Malboro
+0067 - Unknown enemy
+0068 - Poison Bat
+0069 - Floating Eye
+0070 - Cactuar
+0071 - Goblin Mage
+0072 - Lamia
+0073 - Dark Skeleton
+0074 - Red Giant
+0075 - Ice Bomb
+0076 - Ice Turtle
+0077 - Silver Lobo
+0078 - Alpha Silver Lobo
+0079 - Specter
+0080 - Magitek Armor
+0081 - Shantotto
+0082 - Balthier
+0083 - Penelo
+0084 - Prototype
+0085 - Onion Knight
+0086 - Shadow
+0087 - Yuffie
+0088 - Steiner
+0089 - Minuature Magitek Armor
+0090 - Li'l Murderer
+0092 - Flame Flan
+0093 - Thunder Flan
+0094 - Interceptor (Shadow's dog)
+0095 - Charged Giant Behemoth
+0096 - Sand Worm
+0097 - Garuda
+0099 - Lamia Queen
+0101 - Gatcha Sphere
+0102 - Kuja
+0104 - Kefka
+0108 - Edge (manikin)
+0110 - Cecil (manikin)
+0111 - Wakka
+0112 - Eiko
+0113 - Vanille
+0114 - Ramza
+011401 - Ramza (Squire Costume)
+0115 - Unknown enemy (manikin)
+0116 - Prishe
+0117 - Prishe (manikin)
+0118 - Vanille (manikin)
+0120 - Firion (manikin)
+0121 - Onion Knight (manikin)
+0122 - Yang (manikin)
+0124 - Terra (manikin)
+0126 - Shadow (manikin)
+0128 - Squall (manikin)
+0129 - Seifer (manikin)
+0133 - Tidus (manikin)
+0134 - Seymour (manikin)
+0135 - Shantotto (manikin) (texture broken)
+0139 - Snow (manikin)
+0140 - Lightning (manikin)
+0142 - Faris
+0143 - Faris (manikin)
+0144 - Berserker Armor
+0145 - Mover
+0146 - Chimera
+0147 - Yuffie (manikin)
+0148 - Garland
+0150 - Gilgamesh
+0151 - Papalymo
+0152 - Erratic Antlion
+0153 - Kain
+0155 - Materia
+0156 - Spiritus
+0157 - Sabin
+0158 - Golden Cactuar
+0159 - Booster Machine
+0160 - Aggressive Turtle
+0161 - Ferocius Avian
+0162 - Galuf
+0164 - Chocobo (mission mode)
+0165 - Ace
+0166 - Ace (manikin)
+0167 - Blue Dragon
+0168 - Sahagin
+0169 - Desert Sahagin
+0170 - Sweeper
+0171 - Heretic Wight Priest
+0172 - Skull Dragon
+0173 - Holy Dragon
+0174 - Rugged Dark Lord
+0175 - Krile
+0176 - Evil Eye
+0177 - Hellhound
+0178 - Alpha Hellhound
+0179 - Chimera Golem
+0180 - Kraken
+0181 - Ultima Weapon
+0183 - Vincent
+0184 - Cater
+0185 - Cloud of Darkness
+0186 - Zell
+0187 - Layle
+018701 - Layle (Tribal Unity Ball Costume)
+0188 - Thancred
+0189 - Palom
+0190 - Cyan
+0191 - King Behemoth
+0192 - Skull Dragon Soul
+0194 - Sekhret
+0195 - Dark Bahamut
+0196 - Igion
+0197 - Aerith
+0198 - Ashe
+0199 - Minotaur
+0200 - Zack
+0201 - Marilith
+0202 - Raging Tortoise
+0203 - Sand Kraken
+0204 - Black Waltz
+0205 - Ghost Brother
+0206 - Cube
+0207 - Cockatrice
+0208 - Aerith (manikin)
+0211 - Zell (manikin)
+0215 - Vincent (manikin)
+0219 - Thancred (manikin)
+0221 - Golbez
+0222 - The Emperor
+0224 - Edgar
+0226 - Irvine
+0228 - Vanguard Magitek Armor
+0229 - Familiar
+0230 - Lion
+0231 - Quistis
+0232 - Maria
+0233 - Exdeath
+0234 - Abyss Worm
+0236 - Wight
+0237 - Knight Behemoth
+0238 - Cavalier
+0242 - Atlas
+0243 - Lich
+0244 - Seymour
+0246 - Serah
+0250 - Celes
+0254 - Shera (manikin)
+0260 - Garnet
+0267 - Magitek Armor
+0268 - Magitek Armor
+0272 - Tiamat
+0277 - Ultimecia
+0281 - Archeoaevis
+0282 - Noctis
+0283 - Cid (FF7)
+0288 - Heretic Wolf
+0293 - Mu
+0294 - Gaelicat
+0295 - Splasher
+0296 - Scorpion
+0297 - Kefka
+0299 - Kuja
+029901 - Kuja (Treno Noble)
+0302 - Leena
+0305 - Vayne
+0309 - Seifer
+0310 - Raijin
+0311 - Fujin
+0312 - Phoenix
+0317 - Jecht
+0318 - Yuri
+0319 - Unlnown character
+0320 - Lilisette
+0321 - Blackened Will
+0322 - Blackened Will
+0323 - Death Machine
+0324 - Avadon
+0333 - Blackened Bond
+0334 - Blackened Bond
+0335 - Catoblepas
+0337 - Weapon Keeper
+0338 - Heretic Malilith
+0342 - Sephiroth
+0344 - Rydia
+0350 - Heretic Jeweled Turtle
+0351 - Deuce
+0352 - Alisaie
+0357 - Plant Golem
+0358 - Magic Halo
+0359 - Helldiver
+0366 - Relm
+0369 - Argent Officiant
+0369 - Wol (manikin)
+0370 - Planesgorger
+0371 - Imp
+0372 - Magic Pot
+0373 - Cait Sith
+0375 - Elemental Behemoth
+0379 - Leonhart
+0381 - Celestial
+0382 - Gilgamesh
+0383 - Coeurl Assassin
+0384 - Selphie
+0385 - Selphie (manikin)
+0386 - Cactuar (Flower Head)
+0388 - Microchu
+0390 - Heretic Nightmare
+0391 - General
+0393 - Gilgamesh
+0398 - Unknown character
+0400 - Agrias
+0402 - Fang
+0404 - Caius Ballad
+0406 - Seven
+0435 - Barret
+0438 - Count Steam
+0440 - Necroraven
+0449 - Locke
+0455 - Lulu
+0462 - Gigantuar
+0468 - Rinoa
+0475 - Gargoyle
+0476 - Freya
+0482 - Angelo
+0484 - Vayne
+0489 - Fran
+0495 - Paine
+0513 - Cinque
+0527 - Prompto
+0530 - Noel
+0536 - Valefor
+0544 - Beatrix
+0561 - Malilith Gloria
+0565 - Unknown enemy
+0571 - Sherlotta
+0574 - Ultimecia
+0585 - Garland
+0589 - Unknown enemy
+0597 - Killer Bee
+0600 - Basch
+0613 - Kimahri
+0627 - Debug model
+0639 - Unknown enemy
+0640 - Unknown enemy
+0643 - Pandemonium
+0656 - Unknown enemy
+0658 - Leo
+0666 - Debug model
+0677 - Unknown enemy
+0678 - Unknown enemy
+0683 - Keiss
+0710 - Unknown enemy
+0716 - Amidatelion
+0731 - Arenea
